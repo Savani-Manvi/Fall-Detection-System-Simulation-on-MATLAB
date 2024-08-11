@@ -1,5 +1,5 @@
 Overview
-The Fall Detection System is a MATLAB-based project that utilizes mobile sensors (accelerometer and gyroscope) to detect falls. It can send an alert via SMS with the location of the fall using Twilio's API. The system is designed to be used with the MATLAB Mobile app, which allows the collection of sensor data from a mobile device.
+- The Fall Detection System is a MATLAB-based project that utilizes mobile sensors (accelerometer and gyroscope) to detect falls. It can send an alert via SMS with the location of the fall using Twilio's API. The system is designed to be used with the MATLAB Mobile app, which allows the collection of sensor data from a mobile device.
 
 Features
 - Real-Time Fall Detection: The system monitors accelerometer and gyroscope data in real-time to detect falls based on pre-defined thresholds.
