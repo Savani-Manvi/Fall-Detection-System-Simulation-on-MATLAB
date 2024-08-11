@@ -18,7 +18,6 @@ Hardware
 Installation
 1. Clone the Repository:
    git clone https://github.com/Savani-Manvi/Fall-Detection-System-Simulation-on-MATLAB.git
-   cd Fall-Detection-System-Simulation-on-MATLAB
 2. Twilio Setup:
    - Create a Twilio account and obtain your accountSid, authToken, and a Twilio phone number.
    - Replace the placeholders in the fallDetectionSystem function with your Twilio credentials and the recipient's phone number.
