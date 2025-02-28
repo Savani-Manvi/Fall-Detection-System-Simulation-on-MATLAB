@@ -212,4 +212,4 @@ function fallDetectionSystem
     end
 end
 
-fallDetectionSystem;
+fallDetectionSystem; % run the function fallDetectionSystem
