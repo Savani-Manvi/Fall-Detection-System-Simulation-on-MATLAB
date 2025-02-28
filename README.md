@@ -61,5 +61,4 @@ License
 Contribution
 - Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-Contact
 - For any inquiries, please reach out to manvi.savani@gmail.com.
